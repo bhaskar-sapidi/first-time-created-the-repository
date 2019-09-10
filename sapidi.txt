@@ -1,0 +1,4 @@
+hello bhaskr
+this is second pratice to you adding new
+please remember to create new file in GIT use below command
+Vi <file name>
